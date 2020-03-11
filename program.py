@@ -1,7 +1,7 @@
 import os
 import sys
 import cv2
-imoprt socket
+import socket
 import threading
 import numpy as np
 
