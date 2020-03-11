@@ -10,7 +10,7 @@ mest sansynelig vil være på en datamaskin, ( kanskje nettbrett eller telefon )
 
 
 
-Ideer:
+#Ideer:#
 
 () Sette opp en visuell platform
 
@@ -27,7 +27,7 @@ Ideer:
 
 
 
-Tid:
+#Tid:#
 
 Jeg skal prøve å programmere litt hver dag helt frem til jeg skal montere software-et mitt. Jeg
 skal bli ferdig til 17. mai senest.
@@ -35,7 +35,7 @@ skal bli ferdig til 17. mai senest.
 
 
 
-Forfattere:
+#Forfattere:#
 
 navn:  Casper Nag (15)
 
