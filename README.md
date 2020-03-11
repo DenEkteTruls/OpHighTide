@@ -13,10 +13,15 @@ mest sansynelig vil være på en datamaskin, ( kanskje nettbrett eller telefon )
 Ideer:
 
 () Sette opp en visuell platform
+
 () Informasjon om fart, gps, dybde osv
+
 () Lyskontroller
+
 () Automatiske lanterner og nattlys
+
 () Varmekontroller ?
+
 () Blåse og båtalarm
 
 
@@ -33,4 +38,5 @@ skal bli ferdig til 17. mai senest.
 Forfattere:
 
 navn:  Casper Nag (15)
+
 email: casper_nag@outlook.com
