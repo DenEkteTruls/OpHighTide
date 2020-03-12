@@ -1,5 +1,5 @@
 
-# Vårprosjekt #
+# Operation High Tide #
 
 Prosjektet går ut på at jeg skal utvikle et system til den nye båten min. Mye av det elektriske
 i båten skal være kontrollerbart fra et nettbrett eller en databaskin. Alt i fra lys til varme
